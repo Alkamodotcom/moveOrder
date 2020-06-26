@@ -12,7 +12,7 @@ function listAdd() {
     shuffleArray(bob);
     console.log(bob);
 
-    alert("the order is" + bob);
+    alert("the order is: " + bob);
 
     return false;
 }
